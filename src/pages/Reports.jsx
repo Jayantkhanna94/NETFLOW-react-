@@ -1,5 +1,5 @@
 import React from "react";
-import { FileText, Download, Database, TrendingUp, CalendarDays } from "lucide-react";
+import { FileText, Download, Database, TrendingUp, CalendarDays } from "../components/Icons";
 import { Card, Header, Button } from "../components/UI";
 
 export default function Reports() {

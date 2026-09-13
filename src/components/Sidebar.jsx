@@ -13,7 +13,7 @@ import {
   Settings,
   UserCircle,
   LogOut,
-} from "lucide-react";
+} from "./Icons";
 import { useAuth } from "../contexts/AuthContext";
 
 export const navItems = [

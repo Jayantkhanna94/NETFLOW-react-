@@ -12,7 +12,7 @@ import {
   Activity,
   CheckCircle,
   AlertCircle,
-} from "lucide-react";
+} from "../components/Icons";
 import { exportCSV } from "../services/storage";
 import { useData } from "../contexts/DataContext";
 import { Card, Header, Button, SearchBox, Status } from "../components/UI";

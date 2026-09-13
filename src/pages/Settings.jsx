@@ -9,7 +9,7 @@ import {
   Database,
   Save,
   LogOut,
-} from "lucide-react";
+} from "../components/Icons";
 import { useAuth } from "../contexts/AuthContext";
 import { Card, Header, Button } from "../components/UI";
 

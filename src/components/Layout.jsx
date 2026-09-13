@@ -14,7 +14,7 @@ import {
   LogOut,
   UserCircle,
   Settings as SettingsIcon,
-} from "lucide-react";
+} from "./Icons";
 import Sidebar, { navItems } from "./Sidebar";
 import { useAuth } from "../contexts/AuthContext";
 import { useData } from "../contexts/DataContext";

@@ -8,7 +8,7 @@ import {
   Clock,
   Cpu,
   Zap,
-} from "lucide-react";
+} from "../components/Icons";
 import { useData } from "../contexts/DataContext";
 import { Card, Stat, Header, Status, Button } from "../components/UI";
 

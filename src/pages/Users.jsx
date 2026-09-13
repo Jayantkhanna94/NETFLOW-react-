@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Download, Plus, Pencil, Trash2, X } from "lucide-react";
+import { Download, Plus, Pencil, Trash2, X } from "../components/Icons";
 import { getData, saveData, newId, exportCSV } from "../services/storage";
 import { Card, Header, Button, SearchBox, Status } from "../components/UI";
 

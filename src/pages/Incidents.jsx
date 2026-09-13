@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Plus, TriangleAlert, X, CheckCircle2 } from "lucide-react";
+import { Plus, TriangleAlert, X, CheckCircle2 } from "../components/Icons";
 import { useData } from "../contexts/DataContext";
 import { Card, Header, Button, SearchBox, Status } from "../components/UI";
 

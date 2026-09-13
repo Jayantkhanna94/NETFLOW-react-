@@ -9,7 +9,7 @@ import {
   ShieldCheck,
   CheckCircle2,
   LogOut,
-} from "lucide-react";
+} from "../components/Icons";
 import { useAuth } from "../contexts/AuthContext";
 import { Card, Header, Button, Status } from "../components/UI";
 

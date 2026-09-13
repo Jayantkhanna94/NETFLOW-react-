@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Plus, MapPin, Users, CalendarCheck2, X } from "lucide-react";
+import { Plus, MapPin, Users, CalendarCheck2, X } from "../components/Icons";
 import { getData, saveData, newId } from "../services/storage";
 import { Card, Header, Button, SearchBox, Status } from "../components/UI";
 

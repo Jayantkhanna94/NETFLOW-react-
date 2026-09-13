@@ -6,7 +6,7 @@ import {
   Activity,
   Search,
   Wifi,
-} from "lucide-react";
+} from "./Icons";
 
 export function Card({ children, className = "" }) {
   return <section className={`card ${className}`}>{children}</section>;

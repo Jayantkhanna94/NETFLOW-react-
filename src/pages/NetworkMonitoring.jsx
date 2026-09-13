@@ -7,7 +7,7 @@ import {
   Activity,
   ShieldCheck,
   X,
-} from "lucide-react";
+} from "../components/Icons";
 import { useData } from "../contexts/DataContext";
 import { Card, Header, Status, Button } from "../components/UI";
 
